@@ -1,0 +1,10 @@
+{
+    "_id": 1,
+    "question": "What is the capital of France?",
+    "answers": [
+        { "text": "London", "isCorrect": false },
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "Madrid", "isCorrect": false }
+    ]
+    }
